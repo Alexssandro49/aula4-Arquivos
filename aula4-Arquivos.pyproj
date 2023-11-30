@@ -24,7 +24,10 @@
     <Compile Include="aula4_Arquivos.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="exemplo2.txt" />
+    <Content Include="exemplo.txt" />
     <Content Include="ips.txt" />
+    <Content Include="usuarios.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -1,0 +1,4 @@
+Note que para o exemplo 1, você obteve o clone dele completo, incluindo os filhos que ele tem, ou seja, a sub-árvore dele.
+
+Já para o exemplo 2, você só obteve o clone do isolado elemento, apenas ele, sem obter a cópia dos filhos também(sub-árvore).
+
